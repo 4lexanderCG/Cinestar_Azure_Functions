@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "SqlConnectionString": "Data Source=alexonpe.database.windows.net;Initial Catalog=CineStar;User Id=peter;Password=Senati2026@;Encrypt=True;TrustServerCertificate=True;"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
